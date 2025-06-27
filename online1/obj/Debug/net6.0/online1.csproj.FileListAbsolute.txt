@@ -1,0 +1,14 @@
+D:\VS SD 3200\online1\bin\Debug\net6.0\online1.exe
+D:\VS SD 3200\online1\bin\Debug\net6.0\online1.deps.json
+D:\VS SD 3200\online1\bin\Debug\net6.0\online1.runtimeconfig.json
+D:\VS SD 3200\online1\bin\Debug\net6.0\online1.dll
+D:\VS SD 3200\online1\bin\Debug\net6.0\online1.pdb
+D:\VS SD 3200\online1\obj\Debug\net6.0\online1.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS SD 3200\online1\obj\Debug\net6.0\online1.AssemblyInfoInputs.cache
+D:\VS SD 3200\online1\obj\Debug\net6.0\online1.AssemblyInfo.cs
+D:\VS SD 3200\online1\obj\Debug\net6.0\online1.csproj.CoreCompileInputs.cache
+D:\VS SD 3200\online1\obj\Debug\net6.0\online1.dll
+D:\VS SD 3200\online1\obj\Debug\net6.0\refint\online1.dll
+D:\VS SD 3200\online1\obj\Debug\net6.0\online1.pdb
+D:\VS SD 3200\online1\obj\Debug\net6.0\online1.genruntimeconfig.cache
+D:\VS SD 3200\online1\obj\Debug\net6.0\ref\online1.dll
